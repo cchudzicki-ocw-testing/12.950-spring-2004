@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec2.pdf
-type: OCWFile
 uid: 70aaff3b-7ca3-771d-27dd-b1d61e99fa9b
 ---
