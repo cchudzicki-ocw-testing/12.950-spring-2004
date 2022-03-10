@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec26.pdf
 uid: ccc2c664-0664-7e33-a90f-10af044598d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

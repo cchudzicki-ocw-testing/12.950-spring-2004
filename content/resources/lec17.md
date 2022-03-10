@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec17.pdf
 uid: fe20bc47-ca88-05b2-c953-abe34532cf5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

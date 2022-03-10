@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec16.pdf
 uid: 719f51a8-b6e2-6449-9c30-3b57eb3b181d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
