@@ -70,7 +70,7 @@ Dr. Adcroft
 {{< tdopen >}}
 Time-stepping ({{% resource_link 9f2781a6-8a3f-f8be-7ee3-52d7ae1a17c9 "PDF - 1.2 MB" %}})  
   
-MATLAB® Script for P-N-Z Model ([M](/courses/earth-atmospheric-and-planetary-sciences/12-950-atmospheric-and-oceanic-modeling-spring-2004/lecture-notes/pz.m))
+MATLAB® Script for P-N-Z Model ({{% resource_link c95bbb54-6516-01a0-f15f-82c5c85aa61e "M" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Adcroft
