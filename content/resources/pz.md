@@ -14,4 +14,6 @@ title: pz.m
 uid: c95bbb54-6516-01a0-f15f-82c5c85aa61e
 video_files:
   video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
