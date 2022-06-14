@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/32e74deb939b121227923062d572d4e6_lec25.pdf
+file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/32e74deb939b121227923062d572d4e6_lec25.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

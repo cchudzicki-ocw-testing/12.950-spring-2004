@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/34edbf4c0a300cd656b365d640025632_ps2_answers.pdf
+file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/34edbf4c0a300cd656b365d640025632_ps2_answers.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
